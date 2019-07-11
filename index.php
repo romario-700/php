@@ -1,5 +1,5 @@
 <?php
 
-echo "OLA MUNDO>>> !";
-
+echo "OLA MUNDO de DEUS>> !";
+echo "OLA MUNDO de DEUS>> !";
 ?>
